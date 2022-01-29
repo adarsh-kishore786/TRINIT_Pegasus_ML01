@@ -26,30 +26,30 @@
     },
     {"tag": "vaccination",
      "patterns": ["What is COVID-19 vaccine?", "What are the side effects for vaccine?","If I take vaccine, will I be immune from COVID-19?", "What vaccines are there?", "Will I die if I take the vaccine?"],
-     "responses": [""],
+     "responses": ["Vaccinations are the best way to defeat this pandemic, and the higher the level of vaccination in the community, the higher the percentage of immunity in this community. Therefore, we were closer to reaching recovery, as acquiring herd immunity through the vaccine is the most successful way to eliminate the virus. "],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "quarantine",
      "patterns": ["" ],
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "symptoms",
      "patterns": ["" ],
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "lockdown",
      "patterns": [],
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "travel",
      "patterns": ["" ],
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "what",
      "patterns": [],
      "responses": [""],
      "context": [""]
