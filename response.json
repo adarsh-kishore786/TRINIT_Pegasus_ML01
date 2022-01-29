@@ -29,27 +29,27 @@
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "quarantine",
      "patterns": ["" ],
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "symptoms",
      "patterns": ["" ],
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "lockdown",
      "patterns": [],
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "travel",
      "patterns": ["" ],
      "responses": [""],
      "context": [""]
     },
-    {"tag": "",
+    {"tag": "what",
      "patterns": [],
      "responses": [""],
      "context": [""]
